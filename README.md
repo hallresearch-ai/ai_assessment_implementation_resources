@@ -1,4 +1,4 @@
-# ai_assessment_implementation_resources
+# HallResearch.ai Library of AI Assessment and Implementation Resources
 
 A curated split of the original *Awesome Machine Learning Interpretability* repository, focused on assessment, implementation, evaluation, tooling, and educational resources for responsible machine learning.
 
