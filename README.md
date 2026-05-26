@@ -34,26 +34,28 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [ABOUT ML Reference Document](https://partnershiponai.org/paper/about-ml-reference-document/)
 * [Acceptable Use Policies for Foundation Models](https://github.com/kklyman/aupsforfms) | ![](https://img.shields.io/github/stars/kklyman/aupsforfms?style=social)
 * [Access Now, Regulatory Mapping on Artificial Intelligence in Latin America: Regional AI Public Policy Report](https://www.accessnow.org/wp-content/uploads/2024/07/TRF-LAC-Reporte-Regional-IA-JUN-2024-V3.pdf)
+* [Advanced AI Scaling Framework](https://ai.meta.com/static-resource/Meta_Advanced-AI-Scaling-Framework-v2/) | Meta, April 2026
+* [Advancing Responsible AI Innovation: A Playbook](https://reports.weforum.org/docs/WEF_Advancing_Responsible_AI_Innovation_A_Playbook_2025.pdf) | World Economic Forum, September 2025
 * [Adverse Event Reporting for AI: Developing the Information Infrastructure Government Needs to Learn and Act](https://hai.stanford.edu/assets/files/hai-reglab-issue-brief-adverse-event-reporting-for-ai.pdf) | July 2025
 * [AI Accidents: An Emerging Threat: What Could Happen and What to Do, CSET Policy Brief, July 2021](https://cset.georgetown.edu/wp-content/uploads/CSET-AI-Accidents-An-Emerging-Threat.pdf)
-* [AI Act Governance: Best Practices for Implementing the EU AI Act](https://www.appliedai.de/uploads/files/Best-Practices-for-Implementing-the-EU-AI-Act_2025-07-02-092027_vwvf.pdf) | Initiative for Applied Artificial Intelligence, June 2025
-* [AI Act Governance on the Ground: Canada’s Algorithmic Impact Assessment Process and Algorithm has evolved](https://www.worldprivacyforum.org/2024/08/ai-governance-on-the-ground-series-canada/)
-* [AI Act Handbook](https://www.whitecase.com/sites/default/files/2025-06/wc-eu-ai-act-handbook-finalprint.pdf) | White & Case, June 2025
 * [AI Act – Provider Only: Certification Scheme v1.5](https://forhumanity.center/site/wp-content/uploads/2025/03/Excerpt-EU-Artificial-Intelligence-Act-Provider-only-v1.5.pdf) | ForHumanity, March 2025
+* [AI Act Governance on the Ground: Canada’s Algorithmic Impact Assessment Process and Algorithm has evolved](https://www.worldprivacyforum.org/2024/08/ai-governance-on-the-ground-series-canada/)
+* [AI Act Governance: Best Practices for Implementing the EU AI Act](https://www.appliedai.de/uploads/files/Best-Practices-for-Implementing-the-EU-AI-Act_2025-07-02-092027_vwvf.pdf) | Initiative for Applied Artificial Intelligence, June 2025
+* [AI Act Handbook](https://www.whitecase.com/sites/default/files/2025-06/wc-eu-ai-act-handbook-finalprint.pdf) | White & Case, June 2025
 * [AI Agent Governance: A Field Guide](https://static1.squarespace.com/static/64edf8e7f2b10d716b5ba0e1/t/6801438c58c2692374995db0/1744913293841/Agent+Governance_+A+Field+Guide.pdf) | (IAPS), April 2025
 * [AI alignment vs AI ethical treatment: Ten challenges](https://www.globalprioritiesinstitute.org/wp-content/uploads/Bradley-and-Saad-AI-alignment-vs-AI-ethical-treatment_-Ten-challenges.pdf) | Adam Bradley and Bradford Saad, Global Priorities Institute, July 2024
 * [AI Assurance: A Repeatable Process for Assuring AI-enabled Systems](https://www.mitre.org/sites/default/files/2024-06/PR-24-1768-AI-Assurance-A-Repeatable-Process-Assuring-AI-Enabled-Systems.pdf) | MITRE, June 2024
 * [AI Canon](https://a16z.com/ai-canon/) | Andreessen Horowitz (a16z)
 * [AI Decision-Making and the Courts: A guide for Judges, Tribunal Members, and Court Administrators](https://aija.org.au/wp-content/uploads/2023/12/AIJA_AI-DecisionMakingReport_2023update.pdf) | The Australasian Institute of Judicial Administration Inc., published June 2022 and revised and republished December 2023
 * [AI Ethics & Governance 2025: A Framework for Malaysia's Tech Industry](https://www.pikom.org.my/2025/PIKOM_AI_ethic_and_governance_2025.pdf) | PIKOM, May 2025
-* [AI Ethics and Governance in Practice](https://www.turing.ac.uk/research/research-projects/ai-ethics-and-governance-practice) | The Alan Turing Institute
 * [AI Ethics and Governance in Practice: AI Safety in Practice](https://www.turing.ac.uk/news/publications/ai-ethics-and-governance-practice-ai-safety-practice) | The Alan Turing Institute
+* [AI Ethics and Governance in Practice](https://www.turing.ac.uk/research/research-projects/ai-ethics-and-governance-practice) | The Alan Turing Institute
 * [AI For a Planet Under Pressure](https://www.stockholmresilience.org/download/18.15c171219a15332ff93f68/1762500974262/AI%20for%20a%20planet%20under%20pressure_digital2.pdf) | Stockholm Resilience Centre, Stockholm University, November 5, 2025
-* [AI Governance: A Framework for Responsible and Compliant Artificial Intelligence](https://www.aigl.blog/content/files/2025/09/AI-GOVERNANCE-A-Framework-for-Responsible-and-Compliant-Artificial-Intelligence.pdf) | Sołtysiński Kawecki & Szlęzak, September 2025
 * [AI Governance Alliance Briefing Paper Series](https://www3.weforum.org/docs/WEF_AI_Governance_Alliance_Briefing_Paper_Series_2024.pdf) | World Economic Forum, January 2024
 * [AI Governance and the EU's Strategic Role in 2025](https://cadmus.eui.eu/server/api/core/bitstreams/cb201cb1-d7e1-40aa-96fb-023c5b22c22f/content) | Florence School of Transnational Governance, Marta Cantero Gamito, August 2025
 * [AI Governance InternationaL Evaluation AGILE Index 2025](https://agile-index.ai/AGILE-Index-Report-2025-EN.pdf) | July 2025
 * [AI Governance Needs Sociotechnical Expertise: Why the Humanities and Social Sciences Are Critical to Government Efforts](https://datasociety.net/wp-content/uploads/2024/05/DS_AI_Governance_Policy_Brief.pdf)
+* [AI Governance: A Framework for Responsible and Compliant Artificial Intelligence](https://www.aigl.blog/content/files/2025/09/AI-GOVERNANCE-A-Framework-for-Responsible-and-Compliant-Artificial-Intelligence.pdf) | Sołtysiński Kawecki & Szlęzak, September 2025
 * [AI in Africa](https://landscapestudy.tiiny.site/) | Global Center on AI Governance, AI in Africa: A Landscape Study, April 2025
 * [AI in the Public Service: From Principles to Practice](https://oxcaigg.oii.ox.ac.uk/wp-content/uploads/sites/11/2021/12/AI-in-the-Public-Service-Final.pdf) | Oxford Commission on AI & Good Governance
 * [AI Inventories: Practical Challenges for Organizational Risk Management](https://tinyurl.com/mrxrdc3y) | Responsible AI Institute and Chevron
@@ -62,8 +64,8 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [AI Model Risk Management Framework](https://cloudsecurityalliance.org/artifacts/ai-model-risk-management-framework) | Cloud Security Alliance and AI Technology and Risk Working Group, July 23, 2024
 * [AI Policy](https://taylorandfrancis.com/our-policies/ai-policy/) | Taylor & Francis
 * [AI Red-Teaming Is Not a One-Stop Solution to AI Harms: Recommendations for Using Red-Teaming for AI Accountability](https://datasociety.net/wp-content/uploads/2023/10/Recommendations-for-Using-Red-Teaming-for-AI-Accountability-PolicyBrief.pdf) | Data & Society
-* [AI-Relevant Regulatory Precedents: A Systematic Search Across All Federal Agencies](https://www.iaps.ai/research/ai-relevant-regulatory-precedent)
 * [AI Risk Atlas: Taxonomy and Tooling for Navigating AI Risks and Resources](https://arxiv.org/pdf/2503.05780)
+* [AI Safety Frameworks and Risk Governance](https://www.longtermresilience.org/wp-content/uploads/2025/02/AI-Safety-Frameworks-Risk-Governance-1.pdf) | Long Term Resilience, February 2025
 * [AI Safety Governance, the Southeast Asian Way](https://www.brookings.edu/wp-content/uploads/2025/08/GS_08252025_AISA_report.pdf) | Brookings Center for Technology Innovation, AI Safety Asia (AISA), August 2025
 * [AI Safety in Practice](https://www.turing.ac.uk/sites/default/files/2024-06/aieg-ati-6-safetyv1.2.pdf) | The Alan Turing Institute
 * [AI Snake Oil](https://www.aisnakeoil.com/)
@@ -72,28 +74,30 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [AI Verification](https://aiverifyfoundation.sg/what-is-ai-verify/)
 * [AI Verify Foundation](https://aiverifyfoundation.sg/what-is-ai-verify/) | AI Verify Foundation
 * [AI Won't Replace the General: Algorithms, Decision-making and Battlefield Command](https://www.turing.ac.uk/sites/default/files/2025-09/turing_final_report_ai_wont_replace_the_general_2025.pdf) | The Alan Turing Institute, September 2025
+* [AI-enabled Biosecurity: Opportunities to Strengthen U.S. Biosecurity from AI-Enabled Bioterrorism: What Policymakers Should Know](https://csis-website-prod.s3.amazonaws.com/s3fs-public/2025-08/250806_Adamson_AI-Enabled_Bioterrorism.pdf?VersionId=vS8T0bGMLr_lU7RTcXs8im_ndJuGz0cM) | Center for Strategic and International Studies, August 2025
 * [AI-Generated Algorithmic Virality](https://aiforensics.org/uploads/GenAI%20Report.pdf) | AI Forensics, June 2025
 * [AI-Generated Disinformation in Europe and Africa: Use Cases, Solutions and Transnational Learning](https://www.kas.de/documents/285576/0/Study+_+AI-Generated+Disinformation+in+Europe+and+Africa+-+Ebook+%281%29.pdf/a51f9394-e955-21a1-df30-38585122303c?version=1.0&t=1739539822992) | Konrad Adenauer Stiftung, January 31, 2025
-* [AI-enabled Biosecurity: Opportunities to Strengthen U.S. Biosecurity from AI-Enabled Bioterrorism: What Policymakers Should Know](https://csis-website-prod.s3.amazonaws.com/s3fs-public/2025-08/250806_Adamson_AI-Enabled_Bioterrorism.pdf?VersionId=vS8T0bGMLr_lU7RTcXs8im_ndJuGz0cM) | Center for Strategic and International Studies, August 2025
+* [AI-Relevant Regulatory Precedents: A Systematic Search Across All Federal Agencies](https://www.iaps.ai/research/ai-relevant-regulatory-precedent)
 * [An In-Depth Guide To Help You Start Auditing Your AI Models](https://censius.ai/blogs/ai-audit-guide) | Censius
 * [An Overview of Artificial Intelligence Ethics](https://ieeexplore.ieee.org/document/9844014)
 * [An Overview of Catastrophic AI Risks](https://arxiv.org/pdf/2306.12001) | Dan Hendrycks, Mantas Mazeika, and Thomas Woodside, October 9, 2023
 * [Architectural Risk Analysis of Large Language Models](https://berryvilleiml.com/results/BIML-LLM24.pdf) | Berryville Institute of Machine Learning, requires free account
-* [Artificial Intelligence Harm and Human Rights: A High Level Exploration of the Interaction of AI Harms](https://icaad.ngo/2025/09/29/ai-harm-and-human-rights/) | ICAAD and King & Wood Mallesons, September 29, 2025
 * [Artificial Intelligence Controls Matrix Bundle](https://cloudsecurityalliance.org/artifacts/ai-controls-matrix#)
+* [Artificial Intelligence Harm and Human Rights: A High Level Exploration of the Interaction of AI Harms](https://icaad.ngo/2025/09/29/ai-harm-and-human-rights/) | ICAAD and King & Wood Mallesons, September 29, 2025
 * [Artificial Intelligence Impact Assessment](https://ecp.nl/wp-content/uploads/2018/11/Artificial-Intelligence-Impact-Assesment.pdf) | ECP Platform voor de InformatieSamenleving, November 2018
 * [Artificial Intelligence in Africa: Challenges and Opportunities](https://www.policycenter.ma/sites/default/files/2024-09/PB_23_24%20%28Azeroual%29%20%28EN%29.pdf) | Policy Center for the New South, Fahd Azaroual, May 2024
 * [Artificial Intelligence in the Securities Industry](https://www.finra.org/sites/default/files/2020-06/ai-report-061020.pdf) | Financial Industry Regulatory Authority
 * [Artificial Intelligence Tools Versus Practice in Conflict Prediction: The Case of Mali](https://hcss.nl/wp-content/uploads/2020/04/Artificial-Intelligence-Tools-Versus-Practice-in-Conflict-Prediction-The-Case-of-Mali.pdf) | The Hague Centre for Strategic Studies, April 29, 2020
 * [Assessing AI: Surveying the Spectrum of Approaches to Understanding and Auditing AI Systems](https://cdt.org/wp-content/uploads/2025/01/2025-01-15-CDT-AI-Gov-Lab-Auditing-AI-report.pdf) | Center for Democracy and Technology (CDT), January 2025
 * [Assessing the Implementation of Federal AI Leadership and Compliance Mandates](https://hai.stanford.edu/sites/default/files/2025-01/HAI-RegLab-White-Paper-Federal-AI-Leadership-and-Compliance.pdf) | Stanford University Human-Centered Artificial Intelligence (HAI)
+* [AuditBoard: 5 AI Auditing Frameworks to Encourage Accountability](https://www.auditboard.com/blog/ai-auditing-frameworks/)
 * [Auditing Artificial Intelligence](https://ec.europa.eu/futurium/en/system/files/ged/auditing-artificial-intelligence.pdf) | ISACA
 * [Auditing Guidelines for Artificial Intelligence](https://www.isaca.org/resources/news-and-trends/newsletters/atisaca/2020/volume-26/auditing-guidelines-for-artificial-intelligence) | ISACA
 * [Auditing machine learning algorithms: A white paper for public auditors](https://www.auditingalgorithms.net/index.html)
-* [AuditBoard: 5 AI Auditing Frameworks to Encourage Accountability](https://www.auditboard.com/blog/ai-auditing-frameworks/)
 * [Azure AI Content Safety](https://azure.microsoft.com/en-us/products/ai-services/ai-content-safety) | Microsoft
-* [Building an early warning system for LLM-aided biological threat creation](https://openai.com/research/building-an-early-warning-system-for-llm-aided-biological-threat-creation) | OpenAI
+* [Best Practices for AI and Automation in Trust and Safety](https://dtspartnership.org/wp-content/uploads/2024/09/DTSP_Best-Practices-for-AI-Automation-in-Trust-Safety.pdf) | Digital Trust & Safety Partnership, September 2024
 * [Brendan Bycroft's LLM Visualization](https://bbycroft.net/llm)
+* [Building an early warning system for LLM-aided biological threat creation](https://openai.com/research/building-an-early-warning-system-for-llm-aided-biological-threat-creation) | OpenAI
 * [C2PA: Coalition for Content Provenance and Authenticity](https://c2pa.org/) | (C2PA)
 * [Capability Maturity Model Integration Resources](https://cmmiinstitute.com/) | ISACA
 * [Casey Flores, AIGP Study Guide](https://www.linkedin.com/feed/update/urn:li:activity:7201048113090809856?utm_source=share&utm_medium=member_desktop)
@@ -117,22 +121,22 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Children & AI Design Code: A Protocol for the development and use of AI systems that impact children](https://5rightsfoundation.com/wp-content/uploads/2025/03/5rights_AI_CODE_DIGITAL.pdf)
 * [Chinese Critiques of Large Language Models: Finding the Path to General Intelligence](https://cset.georgetown.edu/wp-content/uploads/CSET-Chinese-Critiques-of-Large-Language-Models-Finding-the-Path-to-General-Artificial-Intelligence.pdf) | CSET, January 2025
 * [Closing the AI accountability gap: defining an end-to-end framework for internal algorithmic auditing](https://dl.acm.org/doi/abs/10.1145/3351095.3372873)
-* [Cloud Security Alliance, Artificial Intelligence Controls Matrix Bundle](https://cloudsecurityalliance.org/artifacts/ai-controls-matrix#)
 * [Cloud Security Alliance, AI Model Risk Management Framework](https://cloudsecurityalliance.org/artifacts/ai-model-risk-management-framework) | AI Technology and Risk Working Group, July 23, 2024
+* [Cloud Security Alliance, Artificial Intelligence Controls Matrix Bundle](https://cloudsecurityalliance.org/artifacts/ai-controls-matrix#)
 * [Coalition for Content Provenance and Authenticity](https://c2pa.org/) | (C2PA)
 * [Countries With Draft AI Legislation or Frameworks](https://dominiquesheltonleipzig.com/country-legislation-frameworks/) | Dominique Shelton Leipzig
-* [Data Governance in the Cloud - part 2 - Tools](https://cloud.google.com/blog/products/data-analytics/data-governance-in-the-cloud-part-2-tools) | Google
-* [Data Provenance Explorer](https://www.dataprovenance.org/)
+* [Data governance in AI: Mapping governance](https://theodi.org/insights/reports/understanding-data-governance-in-ai-mapping-governance/) | Open Data Institute
 * [Data governance in the cloud - part 1 - People and processes](https://cloud.google.com/blog/products/data-analytics/data-governance-and-operating-model-for-analytics-pt1) | Google
+* [Data Governance in the Cloud - part 2 - Tools](https://cloud.google.com/blog/products/data-analytics/data-governance-in-the-cloud-part-2-tools) | Google
+* [Data Privacy FAQ](https://aws.amazon.com/compliance/data-privacy-faq/) | AWS
+* [Data Provenance Explorer](https://www.dataprovenance.org/)
 * [Data Statements](https://techpolicylab.uw.edu/data-statements/) | University of Washington Tech Policy Lab
 * [Data Stewardship in Practice](https://www.turing.ac.uk/sites/default/files/2024-06/aieg-ati-5-datastewardshipv1.2.pdf) | The Alan Turing Institute
-* [Data governance in AI: Mapping governance](https://theodi.org/insights/reports/understanding-data-governance-in-ai-mapping-governance/) | Open Data Institute
-* [Data Privacy FAQ](https://aws.amazon.com/compliance/data-privacy-faq/) | AWS
 * [Data Use Policy](https://ourdataourselves.tacticaltech.org/data-use-policy/) | Our Data Our Selves, Tactical Tech
+* [Dealing with Bias and Fairness in AI/ML/Data Science Systems](https://docs.google.com/presentation/d/17o_NzplYua5fcJFuGcy1V1-5GFAHk7oHAF4dN44NkUE)
 * [Debugging Machine Learning Models](https://debug-ml-iclr2019.github.io/) | ICLR workshop proceedings
 * [Decision Points in AI Governance: Three Case Studies Explore Efforts to Operationalize AI Principles](https://cltc.berkeley.edu/wp-content/uploads/2020/05/Decision_Points_AI_Governance.pdf) | University of California, Berkeley, Center for Long-Term Cybersecurity
 * [Deepfake Pornography Goes to Washington: Measuring the Prevalence of AI-Generated Non-Consensual Intimate Imagery Targeting Congress](https://static1.squarespace.com/static/6612cbdfd9a9ce56ef931004/t/67586997eaec5c6ae3bb5e24/1733847451191/ASP+DFP+Report.pdf) | American Sunlight Project, December 11, 2024
-* [Dealing with Bias and Fairness in AI/ML/Data Science Systems](https://docs.google.com/presentation/d/17o_NzplYua5fcJFuGcy1V1-5GFAHk7oHAF4dN44NkUE)
 * [Demos, AI – Trustworthy By Design: How to build trust in AI systems, the institutions that create them and the communities that use them](https://demos.co.uk/research/ai-trustworthy-by-design-how-to-build-trust-in-ai-systems-the-institutions-that-create-them-and-the-communities-that-use-them/)
 * [Digital Policy Alert, The Anatomy of AI Rules: A systematic comparison of AI rules across the globe](https://digitalpolicyalert.org/ai-rules/the-anatomy-of-AI-rules)
 * [Disrupting malicious uses of AI: June 2025](https://cdn.openai.com/threat-intelligence-reports/5f73af09-a3a3-4a55-992e-069237681620/disrupting-malicious-uses-of-ai-june-2025.pdf) | OpenAI
@@ -147,22 +151,25 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [FATML Principles and Best Practices](https://www.fatml.org/resources/principles-and-best-practices)
 * [Federation of American Scientists, A NIST Foundation To Support The Agency’s AI Mandate](https://fas.org/publication/nist-foundation/)
 * [First of its kind Generative AI Evaluation Sandbox for Trusted AI by AI Verify Foundation and IMDA](https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2023/generative-ai-evaluation-sandbox) | Infocomm Media Development Authority (Singapore)
-* [ForHumanity Body of Knowledge](https://forhumanity.center/bok/)
 * [Forging Global Cooperation on AI Risks: Cyber Policy as a Governance Blueprint](https://parispeaceforum.org/app/uploads/2025/02/forging-global-cooperation-on-ai-risks-cyber-policy-as-a-governance-blueprint.pdf) | Paris Peace Forum, February 2025
+* [ForHumanity Body of Knowledge](https://forhumanity.center/bok/)
 * [Framework for Identifying Highly Consequential AI Use Cases](https://www.scsp.ai/wp-content/uploads/2023/11/SCSP_JHU-HCAI-Framework-Nov-6.pdf) | Special Competitive Studies Project and Johns Hopkins University Applied Physics Laboratory
+* [Frameworks and Toolkits for Assuring Responsible AI](https://rai.ac.uk/wp-content/uploads/2025/10/RAIUK-Frameworks-and-Toolkits-Aug-2025.pdf) | Responsible AI UK and Confiance.ai, August 2025
 * [From Principles to Practice: An interdisciplinary framework to operationalise AI ethics](https://www.ai-ethics-impact.org/resource/blob/1961130/c6db9894ee73aefa489d6249f5ee2b9f/aieig---report---download-hb-data.pdf)
+* [Frontier Safety Framework](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/strengthening-our-frontier-safety-framework/frontier-safety-framework_3.pdf) | Google DeepMind, September 2025
 * [Gage Repeatability and Reproducibility](https://asq.org/quality-resources/gage-repeatability)
 * [Gen-AI: Artificial Intelligence and the Future of Work](https://www.imf.org/-/media/Files/Publications/SDN/2024/English/SDNEA2024001.ashx) | International Monetary Fund
-* [Generative AI: A New Threat for Online Child Sexual Exploitation and Abuse](https://unicri.org/sites/default/files/2024-09/Generative-AI-New-Threat-Online-Child-Abuse.pdf) | United Nations Interregional Crime and Justice Research Institute (UNICRI)  Centre for AI and Robotics, Bracket Foundation, and Value for Good, September 2024
 * [Generative AI Prohibited Use Policy](https://policies.google.com/terms/generative-ai/use-policy) | Google
 * [Generative AI Vendor Risk Assessment Guide](https://www.fsisac.com/hubfs/Knowledge/AI/FSISAC_GenerativeAI-VendorEvaluation&QualitativeRiskAssessment.pdf) | Future Society, FS-ISAC, February 2024,
+* [Generative AI: A New Threat for Online Child Sexual Exploitation and Abuse](https://unicri.org/sites/default/files/2024-09/Generative-AI-New-Threat-Online-Child-Abuse.pdf) | United Nations Interregional Crime and Justice Research Institute (UNICRI)  Centre for AI and Robotics, Bracket Foundation, and Value for Good, September 2024
 * [Global AI Governance Law and Policy: Canada, EU, Singapore, UK and US](https://iapp.org/media/pdf/resource_center/global_ai_governance_law_policy_series.pdf) | IAPP
+* [Guidance for Safe Foundation Model Deployment: A Framework for Collective Action](https://partnershiponai.org/modeldeployment/)
 * [Guide for Australian Business: Understanding 42001](https://cdn.prod.website-files.com/6420f704f2602a2ee7f79d26/662aefb77b3077382ff25eef_understanding%2042001%20ai%20management%20system%20standard%20whitepaper.pdf) | Standards Australia and National Artificial Intelligence Centre
 * [Guide for Preparing and Responding to Deepfake Events: From the OWASP Top 10 for LLM Applications Team](https://genai.owasp.org/resource/guide-for-preparing-and-responding-to-deepfake-events/) | OWASP, Version 1, September 2024
-* [Guidance for Safe Foundation Model Deployment: A Framework for Collective Action](https://partnershiponai.org/modeldeployment/)
 * [Guidelines for AI in parliaments](https://www.ipu.org/file/20632/download) | Inter-Parliamentary Union, December 2024
 * [Guidelines on the Application of the Definition of an AI System in the AI Act: ELI Proposal for a Three-Factor Approach](https://www.europeanlawinstitute.eu/fileadmin/user_upload/p_eli/Publications/ELI_Response_on_the_definition_of_an_AI_System.pdf) | European Law Institute, Response of the ELI to the EU Commission's Consultation, November 1, 2024
 * [HackerOne Blog](https://www.hackerone.com/vulnerability-and-security-testing-blog)
+* [Health Care Artificial Intelligence Code of Conduct](https://www.ncbi.nlm.nih.gov/books/n/nap29087/pdf/) | National Academy of Medicine, 2025
 * [How Can We Tackle AI-Fueled Misinformation and Disinformation in Public Health?](https://www.bu.edu/ceid/2024/04/25/how-can-we-tackle-ai-fueled-misinformation-and-disinformation-in-public-health/) | Brown University
 * [How do I cite generative AI in MLA style?](https://style.mla.org/citing-generative-ai/) | MLA
 * [How Microsoft names threat actors](https://learn.microsoft.com/en-us/unified-secops-platform/microsoft-threat-actor-naming) | Microsoft
@@ -175,11 +182,11 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Information System Contingency Planning Guidance](https://www.isaca.org/resources/isaca-journal/issues/2021/volume-3/information-system-contingency-planning-guidance) | Larry G. Wlosinski, April 30, 2021
 * [Institute for AI Policy and Strategy](https://www.iaps.ai/ourresearch) | (IAPS)
 * [Institute of Internal Auditors](https://www.theiia.org/en/pages/search-results/?keyword=artificial+intelligence)
-* [Intolerable Risk Threshold Recommendations for Artificial Intelligence: Key Principles, Considerations, and Case Studies to Inform Frontier AI Safety Frameworks for Industry and Government](https://cltc.berkeley.edu/wp-content/uploads/2025/02/Intolerable-Risk-Threshold-Recommendations-for-Artificial-Intelligence.pdf) | University of California, Berkeley, Center for Long-Term Cybersecurity, February 2025
 * [International AI Safety Report](https://internationalaisafetyreport.org/sites/default/files/2025-10/first-key-update_0.pdf) | First Key Update, Capabilities and Risk Implications, October 2025
 * [International Bar Association, The Future Is Now: Artificial Intelligence and the Legal Profession](https://www.ibanet.org/document?id=The-future-is%20now-AI-and-the-legal-profession-report) | International Bar Association and the Center for AI and Digital Policy
 * [International Monetary Fund, Gen-AI: Artificial Intelligence and the Future of Work](https://www.imf.org/-/media/Files/Publications/SDN/2024/English/SDNEA2024001.ashx)
 * [International Organization for Standardization, ISO/IEC 42001:2023, Information technology — Artificial intelligence — Management system](https://www.iso.org/standard/81230.html)
+* [Intolerable Risk Threshold Recommendations for Artificial Intelligence: Key Principles, Considerations, and Case Studies to Inform Frontier AI Safety Frameworks for Industry and Government](https://cltc.berkeley.edu/wp-content/uploads/2025/02/Intolerable-Risk-Threshold-Recommendations-for-Artificial-Intelligence.pdf) | University of California, Berkeley, Center for Long-Term Cybersecurity, February 2025
 * [ISO policy brief: Harnessing international standards for responsible AI development and governance](https://www.iso.org/files/live/sites/isoorg/files/publications/en/PUB100498.pdf) | ISO, 2025
 * [ITI's AI Security Policy Principles](https://www.itic.org/documents/artificial-intelligence/ITI_AI-Security-Principles_102124_FINAL.pdf) | Information Technology Industry (ITI) Council, October 2024
 * [Just Security's Artificial Intelligence Archive](https://www.justsecurity.org/99958/just-securitys-artificial-intelligence-archive/)
@@ -206,8 +213,8 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Navigating AI Compliance Part 1 Tracing Failure Patterns in History](https://securityandtechnology.org/wp-content/uploads/2024/12/Navigating-AI-Compliance.pdf) | Institute for Security and Technology (IST), December 2024
 * [Navigating AI Compliance Part 2 Risk Mitigation Strategies for Safeguarding Against Future Failures](https://securityandtechnology.org/wp-content/uploads/2025/03/Navigating-AI-Compliance-Part-2-Risk-Mitigation-Strategies-for-Safeguarding-Against-Future-Failures.pdf) | Institute for Security and Technology (IST), March 2025
 * [Navigating the AI Frontier: A Primer on the Evolution and Impact of AI Agents](https://reports.weforum.org/docs/WEF_Navigating_the_AI_Frontier_2024.pdf) | World Economic Forum and Capgemini, December 2024
-* [NewsGuard AI Tracking Center](https://www.newsguardtech.com/special-reports/ai-tracking-center/)
 * [News Integrity in AI Assistants: An international PSM study](https://www.ebu.ch/Report/MIS-BBC/NI_AI_2025.pdf) | EBU and BBC, October 2025
+* [NewsGuard AI Tracking Center](https://www.newsguardtech.com/special-reports/ai-tracking-center/)
 * [On Risk Assessment and Mitigation for Algorithmic Systems](https://drive.google.com/file/d/1ZMt7igUcKUq00yakCnbxBCcaA7vajAix/view) | Integrity Institute Report, February 2024
 * [Open Problems in Technical AI Governance: A repository of open problems in technical AI governance](https://taig.stanford.edu/)
 * [Open Sourcing Highly Capable Foundation Models](https://www.governance.ai/research-paper/open-sourcing-highly-capable-foundation-models)
@@ -215,17 +222,21 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Organization and Training of a Cyber Security Team](http://ieeexplore.ieee.org/document/1245662)
 * [Our Data Our Selves, Data Use Policy](https://ourdataourselves.tacticaltech.org/data-use-policy/)
 * [OWASP AI Testing Guide](https://owasp.org/www-project-ai-testing-guide/)
+* [OWASP GenAI Security Project – Solutions Reference Guide Q2–Q3 2025](https://genai.owasp.org/download/51936/?tmstv=1762286938) | OWASP GenAI Security Project, November 2025
+* [OWASP Top 10 for Agentic Applications 2026](https://genai.owasp.org/download/52117/?tmstv=1765059207) | OWASP GenAI Security Project
 * [PAIR Explorables: Datasets Have Worldviews](https://pair.withgoogle.com/explorables/dataset-worldviews/)
 * [People + AI Guidebook](https://pair.withgoogle.com/guidebook/) | PAIR Guidebook
 * [Perspectives on Issues in AI Governance](https://ai.google/static/documents/perspectives-on-issues-in-ai-governance.pdf) | Google
 * [Policy Center for the New South, Artificial Intelligence in Africa: Challenges and Opportunities](https://www.policycenter.ma/sites/default/files/2024-09/PB_23_24%20%28Azeroual%29%20%28EN%29.pdf) | Fahd Azaroual, May 2024
+* [Preparedness Framework v2](https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf) | OpenAI, April 2025
+* [Prioritizing Real-Time Failure Detection in AI Agents](https://partnershiponai.org/wp-content/uploads/2025/09/agents-real-time-failure-detection.pdf) | Partnership on AI, September 2025
 * [Privacy Notice](https://aws.amazon.com/privacy/) | AWS
 * [PwC's Responsible AI](https://www.pwc.com/gx/en/issues/data-and-analytics/artificial-intelligence/what-is-responsible-ai.html)
+* [Raising Standards: Data and Artificial Intelligence in Southeast Asia](https://asiasociety.org/sites/default/files/inline-files/ASPI_RaisingStandards_report_fin_web_0.pdf) | Asia Society Policy Institute, Elina Noor and Mark Bryan Manantan, July 2022
 * [RAND Corporation, A Primer for Developers and Policymakers](https://www.rand.org/pubs/research_reports/RRA3084-1.html)
 * [RAND Corporation, Analyzing Harms from AI-Generated Images and Safeguarding Online Authenticity](https://www.rand.org/pubs/perspectives/PEA3131-1.html)
 * [RAND Corporation, Strengthening Emergency Preparedness and Response for AI Loss of Control Incidents](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA3800/RRA3847-1/RAND_RRA3847-1.pdf) | RAND Europe, July 30, 2025
 * [RAND Corporation, US Tort Liability for Large-Scale Artificial Intelligence Damages, A Primer for Developers and Policymakers](https://www.rand.org/pubs/research_reports/RRA3084-1.html)
-* [Raising Standards: Data and Artificial Intelligence in Southeast Asia](https://asiasociety.org/sites/default/files/inline-files/ASPI_RaisingStandards_report_fin_web_0.pdf) | Asia Society Policy Institute, Elina Noor and Mark Bryan Manantan, July 2022
 * [Ravit Dotan's Projects](https://www.techbetter.ai/projects-1)
 * [Real People in Fake Porn: How a Federal Right of Publicity Could Assist in the Regulation of Deepfake Pornography](https://www.americanbar.org/content/dam/aba/publications/Jurimetrics/spring-2024/real-people-in-fake-porn-how-a-federal-right-of-publicity-could-assist-in-the-regulation-of-deepfake-pornography.pdf)
 * [Recommendations for the Independent International Scientific Panel on AI and the Global Dialogue on AI Governance](https://drive.google.com/file/d/17mBzqt7foXThI9xcAP8gsTKan34Zk5Mv/view) | Simon Institute for Longterm Governance, February 2025
@@ -234,10 +245,14 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Responsible Data Stewardship in Practice](https://www.turing.ac.uk/sites/default/files/2024-06/aieg-ati-5-datastewardshipv1.2.pdf) | The Alan Turing Institute
 * [Responsible Enterprise AI in the Agentic Era](https://www.infosys.com/iki/documents/responsible-enterprise-ai-agentic-era.pdf) | Infosys
 * [Responsible Practices for Synthetic Media: A Framework for Collective Action](https://syntheticmedia.partnershiponai.org/)
+* [Responsible Scaling Policy Version 3.0](https://www-cdn.anthropic.com/files/4zrzovbb/website/bf04581e4f329735fd90634f6a1962c13c0bd351.pdf) | Anthropic, February 2026
 * [Risk Taxonomy and Thresholds for Frontier AI Frameworks](https://www.frontiermodelforum.org/uploads/2025/06/FMF-Technical-Report-on-Frontier-Risk-Taxonomy-and-Thresholds.pdf) | Frontier Model Forum, June 18, 2025
 * [Risk Tiers: Towards a Gold Standard for Advanced AI](https://aigi.ox.ac.uk/wp-content/uploads/2025/06/AIGI-gold-standard-risk-tiers-convening.pdf) | AI Governance Initiative, Oxford Martin School, and the University of Oxford, June 2025
 * [Safe and Reliable Machine Learning](https://www.dropbox.com/s/sdu26h96bc0f4l7/FAT19-AI-Reliability-Final.pdf?dl=0)
 * [Sample AI Incident Response Checklist](https://bnh-ai.github.io/resources/)
+* [Secure AI Framework Approach](https://services.google.com/fh/files/blogs/google_secure_ai_framework_approach.pdf) | Google
+* [Secure AI Framework Summary](https://services.google.com/fh/files/blogs/google_secure_ai_framework_summary.pdf) | Google
+* [Securing Agentic Applications Guide 1.0](https://genai.owasp.org/download/49059/?tmstv=1753666640) | OWASP GenAI Security Project, July 2025
 * [SHRM Generative Artificial Intelligence AI Chatbot Usage Policy](https://www.shrm.org/resourcesandtools/tools-and-samples/policies/pages/chatgpt-generative-ai-usage.aspx)
 * [Sovereign AI and Sustainable Computation for Indigenous Communities](https://iem.ucsd.edu/_files/GEMSTONES-FOX-ZGPUS-PLUS-BIOSKETCH-031225.pdf) | Keolu Fox
 * [State of Agentic AI Security and Governance: OWASP Gen AI Security Project Agentic Security Initiative](https://genai.owasp.org/download/50592/?tmstv=1754459367) | Version 1.0, July 2025
@@ -248,8 +263,8 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [System cards](https://ai.meta.com/tools/system-cards/) | Meta
 * [Taskade: AI Audit PBC Request Checklist Template](https://www.taskade.com/templates/engineering/audit-pbc-request-checklist)
 * [Taxonomy of Failure Mode in Agentic AI Systems](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Taxonomy-of-Failure-Mode-in-Agentic-AI-Systems-Whitepaper.pdf) | Microsoft
-* [Technology Trends Outlook 2025](https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20digital/our%20insights/the%20top%20trends%20in%20tech%202025/mckinsey-technology-trends-outlook-2025.pdf) | McKinsey & Company, July 2025, Fifth Edition
 * [Tech Policy Press - Artificial Intelligence](https://www.techpolicy.press/category/artificial-intelligence/)
+* [Technology Trends Outlook 2025](https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20digital/our%20insights/the%20top%20trends%20in%20tech%202025/mckinsey-technology-trends-outlook-2025.pdf) | McKinsey & Company, July 2025, Fifth Edition
 * [TechTarget: 9 questions to ask when auditing your AI systems](https://www.techrepublic.com/article/9-questions-to-ask-when-auditing-your-ai-systems/)
 * [The AI Act between Digital and Sectoral Regulations](https://www.bertelsmann-stiftung.de/fileadmin/files/user_upload/The_AI_Act_between_Digital_and_Sectoral_Regulations__2024_en.pdf) | Bertelsmann Stiftung, December 2024
 * [The AI Act is coming: EU reaches political agreement on comprehensive regulation of artificial intelligence](https://www.engage.hoganlovells.com/knowledgeservices/news/the-ai-act-is-coming-eu-reaches-political-agreement-on-comprehensive-regulation-of-artificial-intelligence?nav=FRbANEucS95NMLRN47z%2BeeOgEFCt8EGQ71hKXzqW2Ec%3D&key=BcJlhLtdCv6%2FJTDZxvL23TQa3JHL2AIGr93BnQjo2SkGJpG9xDX7S2thDpAQsCconWHAwe6cJTmX%2FZxLGrXbZz2L%2BEiiz68X&uid=iZAX%2FROFT6Q%3D) | Hogan Lovells
@@ -260,9 +275,10 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [The Future Is Now: Artificial Intelligence and the Legal Profession](https://www.ibanet.org/document?id=The-future-is%20now-AI-and-the-legal-profession-report) | International Bar Association and the Center for AI and Digital Policy
 * [The Implications of Artificial Intelligence in Cybersecurity: Shifting the Offense-Defense Balance](https://securityandtechnology.org/virtual-library/reports/the-implications-of-artificial-intelligence-in-cybersecurity/) | Institute for Security and Technology (IST)
 * [The Landscape of ML Documentation Tools](https://huggingface.co/docs/hub/model-card-landscape-analysis) | Hugging Face
+* [The Responsible Use of AI in Healthcare](https://digitalassets.jointcommission.org/api/public/content/dcfcf4f1a0cc45cdb526b3cb034c68c2) | The Joint Commission and Coalition for Health AI, 2025
 * [The Rise of Generative AI and the Coming Era of Social Media Manipulation 3.0: Next-Generation Chinese Astroturfing and Coping with Ubiquitous AI](https://www.rand.org/pubs/perspectives/PEA2679-1.html)
-* [Towards Effective Governance of Foundation Models and Generative AI](https://thefuturesociety.org/towards-effective-governance-of-foundation-models-and-generative-ai/) | Future Society
 * [Toward an evaluation science for generative AI systems](https://arxiv.org/pdf/2503.05336)
+* [Towards Effective Governance of Foundation Models and Generative AI](https://thefuturesociety.org/towards-effective-governance-of-foundation-models-and-generative-ai/) | Future Society
 * [Towards Traceability in Data Ecosystems using a Bill of Materials Model](https://arxiv.org/pdf/1904.04253.pdf) | Manifest MLBOM Wiki
 * [Transformed by AI: How Generative Artificial Intelligence Could Affect Work in the UK—And How to Manage It](https://ippr-org.files.svdcdn.com/production/Downloads/Transformed_by_AI_March24_2024-03-27-121003_kxis.pdf) | Institute for Public Policy Research (IPPR)
 * [Troubleshooting Deep Neural Networks](http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf)
