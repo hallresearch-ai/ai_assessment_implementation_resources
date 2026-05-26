@@ -392,6 +392,10 @@ This section contains challenges and competitions related to responsible ML.
 
 ## Education Resources
 
+### Courses and Curricula
+
+* [AI Safety, Ethics, and Society Virtual Course](https://www.aisafetybook.com/virtual-course) | Dan Hendrycks and others
+
 ### Comprehensive Software Examples and Tutorials
 
 This section is a curated collection of guides and tutorials that simplify responsible ML implementation. It spans from basic model interpretability to advanced fairness techniques. Suitable for both novices and experts, the resources cover topics like COMPAS fairness analyses and explainable machine learning via counterfactuals.
