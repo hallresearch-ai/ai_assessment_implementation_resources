@@ -1,10 +1,16 @@
 # HallResearch.ai Library of AI Assessment and Implementation Resources
 
-A curated split of the original *Awesome Machine Learning Interpretability* repository, focused on assessment, implementation, evaluation, tooling, and educational resources for responsible machine learning.
+This repository is one of the two main branches of the [HallResearch.ai Library](https://hallresearch.ai/), a curated public collection of resources for understanding, governing, assessing, and implementing artificial intelligence systems.
 
-Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch.ai).
+Use this branch for materials related to responsible machine learning assessment, implementation practice, evaluation, auditing, testing, tooling, documentation, and education.
 
-This file was derived from the original AMLI repository markdown and reorganized into an assessment/implementation-focused repository split.
+For resources focused on AI governance, public policy, legal materials, institutional guidance, incidents, accountability, and critique, visit the companion branch: [AI Governance and Policy Resources](https://github.com/hallresearch-ai/ai_governance_policy_resources).
+
+For the full Library index, visit the [HallResearch.ai Library](https://hallresearch.ai/) or the [HallResearch.ai GitHub organization](https://github.com/hallresearch-ai).
+
+Maintained by Patrick Hall and Daniel Atherton. Maintenance and curation are sponsored by [HallResearch.ai](https://hallresearch.ai/).
+
+This repository grew out of the original [*Awesome Machine Learning Interpretability*](https://github.com/jphall663/awesome-machine-learning-interpretability) project and is maintained as part of the broader HallResearch.ai Library structure.
 
 ## Contents
 
