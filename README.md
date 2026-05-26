@@ -398,6 +398,12 @@ This section contains challenges and competitions related to responsible ML.
 
 ## Education Resources
 
+This section collects courses, curricula, syllabi, tutorials, and teaching materials that help readers learn about responsible machine learning, AI assessment, AI safety, technical evaluation, interpretability, auditing, implementation practice, and related topics.
+
+These resources are included here because they are primarily pedagogical or training-oriented. They teach readers how to understand, evaluate, build, test, or implement AI systems responsibly.
+
+For university policies, syllabus-use rules, academic integrity statements, classroom AI guidance, and institutional teaching policies, see the companion branch: [AI Governance and Policy Resources](https://github.com/hallresearch-ai/ai_governance_policy_resources).
+
 ### Courses and Curricula
 
 #### AI Safety and LLM Safety Courses
