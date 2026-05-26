@@ -394,7 +394,40 @@ This section contains challenges and competitions related to responsible ML.
 
 ### Courses and Curricula
 
+#### AI Safety and LLM Safety Courses
+
 * [AI Safety, Ethics, and Society Virtual Course](https://www.aisafetybook.com/virtual-course) | Dan Hendrycks and others
+* [Introduction to ML Safety](https://course.mlsafety.org/about)
+* [BlueDot Impact Courses](https://bluedot.org/courses)
+* [CS 2881: AI Safety](https://boazbk.github.io/mltheoryseminar/) | Harvard University
+* [COS 597Q: AI Safety](https://sites.google.com/view/cos598aisafety/) | Princeton University
+* [CS 194/294-267: Understanding Large Language Models: Foundations and Safety](https://rdi.berkeley.edu/understanding_llms/s24) | University of California, Berkeley
+
+#### Responsible AI, Ethics, and Public Policy Courses
+
+* [CS 281: Ethics of Artificial Intelligence](https://stanfordaiethics.github.io/) | Stanford University
+* [CS 182: Ethics, Public Policy, and Technological Change](https://web.stanford.edu/class/cs182/) | Stanford University
+* [CS 181/181W: Computers, Ethics, and Public Policy](https://stanfordcs181.github.io/) | Stanford University
+* [CS 21SI: AI for Social Good](https://web.stanford.edu/class/cs21si/) | Stanford University
+* [Responsible AI, Law, Ethics & Society](https://jsp-ls.berkeley.edu/sites/default/files/berkeley_legal_studies_responsible_ai_law_ethics_society.pdf) | University of California, Berkeley
+* [Responsible AI in Practice](https://sites.google.com/view/responsibleaicourse/) | Stanford University
+* [CS 109: The Essentials of AI for Life and Society](https://www.cs.utexas.edu/~pstone/Courses/109fall23/) | University of Texas at Austin
+
+#### Embedded Ethics Teaching Materials
+
+* [Embedded EthiCS Module Repository](https://embeddedethics.seas.harvard.edu/classes/) | Harvard University
+* [Stanford Embedded Ethics](https://embeddedethics.stanford.edu/) | Stanford University
+
+#### AI Literacy and K–12 Curricula
+
+* [RAISE: Responsible AI for Social Empowerment and Education](https://ocw.mit.edu/courses/res-mas-001-raise-responsible-ai-for-social-empowerment-and-education-spring-2022/) | MIT OpenCourseWare
+* [Day of AI Curriculum Resources](https://dayofai.org/curriculum-resources) | MIT RAISE
+* [AI4K12](https://ai4k12.org/)
+* [AI + Ethics for Middle School](https://ai4k12.org/ai-plus-ethics-for-middle-school/) | AI4K12
+
+#### Syllabus Collections
+
+* [Tech Ethics Curricula: A Collection of Syllabi](https://cfiesler.medium.com/tech-ethics-curricula-a-collection-of-syllabi-3eedfb76be18) | Casey Fiesler
 
 ### Comprehensive Software Examples and Tutorials
 
