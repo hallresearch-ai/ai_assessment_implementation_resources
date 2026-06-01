@@ -16,10 +16,39 @@ This repository grew out of the original [*Awesome Machine Learning Interpretabi
 
 - [Assessment and Implementation Guidance](#assessment-and-implementation-guidance)
   - [Community Frameworks and Guidance](#community-frameworks-and-guidance)
+    - [Infographics and Cheat Sheets](#infographics-and-cheat-sheets)
+    - [AI Red-Teaming Resources](#ai-red-teaming-resources)
+      - [Papers](#papers)
+      - [Tools and Guidance](#tools-and-guidance)
+    - [Generative AI Explainability](#generative-ai-explainability)
   - [Challenges and Competitions](#challenges-and-competitions)
 - [Education Resources](#education-resources)
+  - [Courses and Curricula](#courses-and-curricula)
+    - [AI Safety and LLM Safety Courses](#ai-safety-and-llm-safety-courses)
+    - [Responsible AI, Ethics, and Public Policy Courses](#responsible-ai-ethics-and-public-policy-courses)
+    - [Embedded Ethics Teaching Materials](#embedded-ethics-teaching-materials)
+    - [AI Literacy and K-12 Curricula](#ai-literacy-and-k-12-curricula)
+    - [Syllabus Collections](#syllabus-collections)
+  - [Comprehensive Software Examples and Tutorials](#comprehensive-software-examples-and-tutorials)
+  - [Free-ish Books](#free-ish-books)
+  - [Glossaries and Dictionaries](#glossaries-and-dictionaries)
+  - [Open-ish Classes](#open-ish-classes)
+    - [Course Syllabi](#course-syllabi)
+  - [Podcasts and Channels](#podcasts-and-channels)
 - [Technical Resources](#technical-resources)
-- [Repository Note](#repository-note)
+  - [Benchmarks and Evaluation Frameworks](#benchmarks-and-evaluation-frameworks)
+  - [Common or Useful Datasets](#common-or-useful-datasets)
+  - [Domain-specific Software](#domain-specific-software)
+  - [Machine Learning Environment Management Tools](#machine-learning-environment-management-tools)
+  - [Personal Data Protection Tools](#personal-data-protection-tools)
+  - [Open Source/Access Responsible AI Software Packages](#open-sourceaccess-responsible-ai-software-packages)
+    - [Browser](#browser)
+    - [C/C++](#cc)
+    - [JavaScript](#javascript)
+    - [Python](#python)
+    - [R](#r)
+- [Archived](#archived)
+  - [Official Policy, Frameworks, and Guidance](#official-policy-frameworks-and-guidance)
 
 ## Assessment and Implementation Guidance
 
@@ -622,7 +651,7 @@ This section features podcasts and channels (such as on YouTube) that offer insi
 
 ## Technical Resources
 
-### Benchmarks
+### Benchmarks and Evaluation Frameworks
 
 This section contains benchmarks or datasets used for benchmarks for ML systems, particularly those related to responsible ML desiderata.
 
@@ -941,9 +970,9 @@ This section contains open source or open access software used to implement resp
 | [vip](https://github.com/koalaverse/vip)-![](https://img.shields.io/github/stars/koalaverse/vip?style=social) | "An R package for constructing variable importance plots (VIPs)." |
 | [xgboostExplainer](https://github.com/AppliedDataSciencePartners/xgboostExplainer)-![](https://img.shields.io/github/stars/AppliedDataSciencePartners/xgboostExplainer?style=social) | "An R package that makes xgboost models fully interpretable. |
 
-### Archived
+## Archived
 
-#### Archived: Official Policy, Frameworks, and Guidance
+### Official Policy, Frameworks, and Guidance
 
 For official government files pertaining to responsible AI practices that have been taken offline, we provide Wayback Machine mirror links below. If a document is still available on its original official domain, it can currently be found in its respective subsection above, although it may later be incorporated into this list. Documents may be removed for various reasons (whether political or through routine updates), but archiving them ensures they remain accessible for historical reference. If you're a researcher who finds a dead link to an older version of a government document or one that has altogether been deleted without comment, please feel free to submit a pull request drawing our attention to it and we'll consider it for inclusion. Where possible, we provide links to what appear to be the most recent URLs that governments may want the public to access.
 
@@ -975,41 +1004,3 @@ For official government files pertaining to responsible AI practices that have b
  * [Aiming for truth, fairness, and equity in your company’s use of AI](https://web.archive.org/web/20250117235232/https://www.ftc.gov/business-guidance/blog/2021/04/aiming-truth-fairness-equity-your-companys-use-ai) | United States, Federal Trade Commission, Elisa Jillson, April 19, 2021, archived January 17, 2025
 * [Using Artificial Intelligence and Algorithms](https://web.archive.org/web/20240115210007/https://www.ftc.gov/business-guidance/blog/2020/04/using-artificial-intelligence-and-algorithms) | United States, Federal Trade Commission, Andrew Smith, April 8, 2020, archived January 15, 2024
 * [Validation of Employee Selection Procedures](https://web.archive.org/web/20250103095140/https://www.dol.gov/agencies/ofccp/faqs/employee-selection-procedures) | Office of Federal Contract Compliance Programs (archived)
-
-### Citing Awesome Machine Learning Interpretability
-
-Contributors with over 100 edits can be named coauthors in the citation of visible names. Otherwise, all contributors with fewer than 100 edits are included under "et al."
-
-#### Bibtex
-
-```
-@misc{amli_repo,
-  author={Patrick Hall and Daniel Atherton},
-  title={Awesome Machine Learning Interpretability},
-  year={2024},
-  note={\url{https://github.com/jphall663/awesome-machine-learning-interpretability}}
-}
-```
-
-#### ACM, APA, Chicago, and MLA
-
-* **ACM (Association for Computing Machinery)**
-
-Hall, Patrick, Daniel Atherton, et al. 2024. Awesome Machine Learning Interpretability. GitHub. https://github.com/jphall663/awesome-machine-learning-interpretability.
-
-* **APA (American Psychological Association) 7th Edition**
-
-Hall, Patrick, Daniel Atherton, et al. (2024). Awesome Machine Learning Interpretability [GitHub repository]. GitHub. https://github.com/jphall663/awesome-machine-learning-interpretability.
-
-* **Chicago Manual of Style 17th Edition**
-
-Hall, Patrick, Daniel Atherton, et al. "Awesome Machine Learning Interpretability." GitHub. Last modified 2023. https://github.com/jphall663/awesome-machine-learning-interpretability.
-
-* **MLA (Modern Language Association) 9th Edition**
-
-Hall, Patrick, Daniel Atherton, et al. "Awesome Machine Learning Interpretability." *GitHub*, 2024, https://github.com/jphall663/awesome-machine-learning-interpretability. Accessed 5 March 2024.
-
-## Repository Note
-
-This split assigns materials oriented toward testing, implementation, evaluation, documentation, software, datasets, benchmarks, tutorials, and operational practice to this repository. Update repository-specific contribution, issue, archive, and citation metadata as needed.
-# ai_assessment_implementation_resources
