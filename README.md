@@ -1,6 +1,6 @@
 # HallResearch.ai Library of AI Assessment and Implementation Resources
 
-(c) HallResearch.ai CC-BY 4.0, some rights reserved.
+(c) HallResearch.ai [CC-BY 4.0](LICENSE), some rights reserved.
 
 This repository is one of the two main branches of the [HallResearch.ai Library](https://github.com/hallresearch-ai), a curated public collection of resources for understanding, governing, assessing, and implementing artificial intelligence systems.
 
