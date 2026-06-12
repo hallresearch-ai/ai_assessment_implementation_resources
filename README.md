@@ -367,6 +367,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [Red Teaming for GenAI Harms: Revealing the Risks and Rewards for Online Safety](https://www.ofcom.org.uk/siteassets/resources/documents/consultations/discussion-papers/red-teaming/red-teaming-for-gen-ai-harms.pdf?v=370762) | Ofcom, July 23, 2024
 * [Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://arxiv.org/abs/2209.07858)
 * [Red Teaming of Advanced Information Assurance Concepts](https://ieeexplore.ieee.org/document/821513)
+* [Robust AI Security and Alignment: A Sisyphean Endeavor?](https://arxiv.org/pdf/2512.10100) | Apostol Vassilev, arXiv, 2026
 
 ##### Tools and Guidance
 
