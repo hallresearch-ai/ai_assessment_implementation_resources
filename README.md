@@ -718,6 +718,41 @@ This section contains datasets that are commonly used in responsible ML evaulati
 
 This section curates specialized software tools aimed at responsible ML within specific domains, such as in healthcare, finance, or social sciences.
 
+#### Health care and clinical AI
+
+* [Epic Seismometer](https://github.com/epic-open-source/seismometer) | ![](https://img.shields.io/github/stars/epic-open-source/seismometer?style=social)
+* [Healthcare AI Model Evaluator](https://github.com/microsoft/healthcare-ai-model-evaluator) | ![](https://img.shields.io/github/stars/microsoft/healthcare-ai-model-evaluator?style=social)
+* [MedPerf](https://github.com/mlcommons/medperf) | ![](https://img.shields.io/github/stars/mlcommons/medperf?style=social)
+* [MONAI Deploy App SDK](https://github.com/Project-MONAI/monai-deploy-app-sdk) | ![](https://img.shields.io/github/stars/Project-MONAI/monai-deploy-app-sdk?style=social)
+* [OHDSI PatientLevelPrediction](https://github.com/OHDSI/PatientLevelPrediction) | ![](https://img.shields.io/github/stars/OHDSI/PatientLevelPrediction?style=social)
+* [OpenSAFELY](https://www.opensafely.org/)
+* [Synthea](https://github.com/synthetichealth/synthea) | ![](https://img.shields.io/github/stars/synthetichealth/synthea?style=social)
+
+#### Financial services
+
+* [FINRA Model Validation Toolkit](https://github.com/FINRAOS/model-validation-toolkit) | ![](https://img.shields.io/github/stars/FINRAOS/model-validation-toolkit?style=social)
+* [skorecard](https://github.com/ing-bank/skorecard) | ![](https://img.shields.io/github/stars/ing-bank/skorecard?style=social)
+* [Veritas Diagnosis Toolkit](https://github.com/mas-veritas2/veritastool) | ![](https://img.shields.io/github/stars/mas-veritas2/veritastool?style=social)
+
+#### Autonomous and safety-critical systems
+
+* [CARLA](https://github.com/carla-simulator/carla) | ![](https://img.shields.io/github/stars/carla-simulator/carla?style=social)
+* [nuPlan Devkit](https://github.com/motional/nuplan-devkit) | ![](https://img.shields.io/github/stars/motional/nuplan-devkit?style=social)
+* [SafeBench](https://github.com/trust-ai/SafeBench) | ![](https://img.shields.io/github/stars/trust-ai/SafeBench?style=social)
+* [Scenic](https://github.com/BerkeleyLearnVerify/Scenic) | ![](https://img.shields.io/github/stars/BerkeleyLearnVerify/Scenic?style=social)
+* [VerifAI](https://github.com/BerkeleyLearnVerify/VerifAI) | ![](https://img.shields.io/github/stars/BerkeleyLearnVerify/VerifAI?style=social)
+
+#### Environmental accountability
+
+* [carbontracker](https://github.com/saintslab/carbontracker) | ![](https://img.shields.io/github/stars/saintslab/carbontracker?style=social)
+* [CodeCarbon](https://github.com/mlco2/codecarbon) | ![](https://img.shields.io/github/stars/mlco2/codecarbon?style=social)
+* [EcoLogits](https://github.com/mlco2/ecologits) | ![](https://img.shields.io/github/stars/mlco2/ecologits?style=social)
+
+#### Cybersecurity
+
+* [NVIDIA Morpheus](https://github.com/nv-morpheus/Morpheus) | ![](https://img.shields.io/github/stars/nv-morpheus/Morpheus?style=social)
+* [secml-malware](https://github.com/pralab/secml_malware) | ![](https://img.shields.io/github/stars/pralab/secml_malware?style=social)
+
 ### Machine Learning Environment Management Tools
 
 This section contains open source or open access ML environment management software.
