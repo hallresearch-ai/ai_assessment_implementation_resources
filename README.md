@@ -43,6 +43,7 @@ This repository grew out of the original [*Awesome Machine Learning Interpretabi
   - [Domain-specific Software](#domain-specific-software)
   - [Machine Learning Environment Management Tools](#machine-learning-environment-management-tools)
   - [Personal Data Protection Tools](#personal-data-protection-tools)
+  - [Secure and Privacy-Preserving Computation Infrastructure](#secure-and-privacy-preserving-computation-infrastructure)
   - [Open Source/Access Responsible AI Software Packages](#open-sourceaccess-responsible-ai-software-packages)
     - [Browser](#browser)
     - [C/C++](#cc)
@@ -792,6 +793,29 @@ This section contains open source or open access tools for detecting, protecting
 | [SmartNoise SDK](https://github.com/opendp/smartnoise-sdk)-![](https://img.shields.io/github/stars/opendp/smartnoise-sdk?style=social) | Tools and services for differentially private processing of tabular and relational data. |
 | [TensorFlow Privacy](https://github.com/tensorflow/privacy)-![](https://img.shields.io/github/stars/tensorflow/privacy?style=social) | A library for training TensorFlow models with differential privacy and analyzing the privacy guarantees of training procedures. |
 | [Tumult Analytics](https://github.com/opendp/tumult-analytics)-![](https://img.shields.io/github/stars/opendp/tumult-analytics?style=social) | A Python library for executing differentially private operations on data, with an emphasis on usability and scalability. |
+
+### Secure and Privacy-Preserving Computation Infrastructure
+
+This section contains open source or open access infrastructure for secure multiparty computation, homomorphic encryption, federated learning, private set operations, and privacy-preserving data analysis and machine learning.
+
+| Name | Description |
+|------|-------------|
+| [ABY](https://github.com/encryptogroup/ABY)-![](https://img.shields.io/github/stars/encryptogroup/ABY?style=social) | A C++ framework for mixed-protocol secure two-party computation using arithmetic sharing, Boolean sharing, and garbled circuits. |
+| [Concrete](https://github.com/zama-ai/concrete)-![](https://img.shields.io/github/stars/zama-ai/concrete?style=social) | A compiler and runtime for converting Python programs into computations that can run over fully homomorphically encrypted data. |
+| [EMP-tool](https://github.com/emp-toolkit/emp-tool)-![](https://img.shields.io/github/stars/emp-toolkit/emp-tool?style=social) | A C++ toolkit providing low-level cryptographic primitives and circuit infrastructure for secure multiparty computation. |
+| [FATE](https://github.com/FederatedAI/FATE)-![](https://img.shields.io/github/stars/FederatedAI/FATE?style=social) | A federated learning platform supporting privacy-preserving model training and serving through techniques including homomorphic encryption and secure multiparty computation. |
+| [Google Private Join and Compute](https://github.com/google/private-join-and-compute)-![](https://img.shields.io/github/stars/google/private-join-and-compute?style=social) | An implementation of a private intersection-sum protocol for identifying overlapping records and computing aggregate values without revealing complete datasets. |
+| [Kuscia](https://github.com/secretflow/kuscia)-![](https://img.shields.io/github/stars/secretflow/kuscia?style=social) | A Kubernetes-based orchestration framework for deploying and managing privacy-preserving computing tasks across organizations. |
+| [Lattigo](https://github.com/tuneinsight/lattigo)-![](https://img.shields.io/github/stars/tuneinsight/lattigo?style=social) | A Go library implementing homomorphic encryption and multiparty homomorphic encryption schemes for secure distributed computation. |
+| [MOTION](https://github.com/encryptogroup/MOTION)-![](https://img.shields.io/github/stars/encryptogroup/MOTION?style=social) | A modular C++ framework for mixed-protocol secure multiparty computation involving two or more parties. |
+| [MOTION2NX](https://github.com/encryptogroup/MOTION2NX)-![](https://img.shields.io/github/stars/encryptogroup/MOTION2NX?style=social) | An extension of MOTION for hybrid secure two-party computation and privacy-preserving neural network inference. |
+| [MP-SPDZ](https://github.com/data61/MP-SPDZ)-![](https://img.shields.io/github/stars/data61/MP-SPDZ?style=social) | A framework implementing numerous secure multiparty computation protocols, with support for privacy-preserving machine learning and neural network inference. |
+| [MPyC](https://github.com/lschoe/mpyc)-![](https://img.shields.io/github/stars/lschoe/mpyc?style=social) | A Python framework for secure multiparty computation using threshold secret sharing, with support for secure numerical and machine learning operations. |
+| [PySyft](https://github.com/OpenMined/PySyft)-![](https://img.shields.io/github/stars/OpenMined/PySyft?style=social) | Infrastructure for executing approved computations on private data while the data remains under the control of its owner. |
+| [SecretFlow](https://github.com/secretflow/secretflow)-![](https://img.shields.io/github/stars/secretflow/secretflow?style=social) | A framework for privacy-preserving data analysis and machine learning using secure multiparty computation, federated learning, trusted execution environments, homomorphic encryption, and differential privacy. |
+| [SecretFlow PSI](https://github.com/secretflow/psi)-![](https://img.shields.io/github/stars/secretflow/psi?style=social) | An implementation of private set intersection and private information retrieval protocols for privacy-preserving data collaboration. |
+| [SecretFlow SCQL](https://github.com/secretflow/scql)-![](https://img.shields.io/github/stars/secretflow/scql?style=social) | A system that translates SQL queries into secure multiparty computation so organizations can jointly analyze databases without disclosing their underlying records. |
+| [SecretFlow SPU](https://github.com/secretflow/spu)-![](https://img.shields.io/github/stars/secretflow/spu?style=social) | A secure computation runtime for privacy-preserving data analysis and machine learning, including private neural network inference. |
 
 ### Open Source/Access Responsible AI Software Packages
 
