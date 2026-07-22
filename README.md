@@ -814,9 +814,19 @@ This section contains open source or open access software used to implement resp
 
 | Name | Description |
 |------|-------------|
-| [Born-again Tree Ensembles](https://github.com/vidalt/BA-Trees)-![](https://img.shields.io/github/stars/vidalt/BA-Trees?style=social) | "Born-Again Tree Ensembles: Transforms a random forest into a single, minimal-size, tree with exactly the same prediction function in the entire feature space (ICML 2020)." |)
-| [Certifiably Optimal RulE ListS](https://github.com/nlarusstone/corels)-![](https://img.shields.io/github/stars/nlarusstone/corels?style=social) | "CORELS is a custom discrete optimization technique for building rule lists over a categorical feature space." |
-| [Secure-ML](https://github.com/shreya-28/Secure-ML)-![](https://img.shields.io/github/stars/shreya-28/Secure-ML?style=social) | "Secure Linear Regression in the Semi-Honest Two-Party Setting." |
+| [Born-again Tree Ensembles](https://github.com/vidalt/BA-Trees)-![](https://img.shields.io/github/stars/vidalt/BA-Trees?style=social) | Transforms a random forest into a single minimal-size decision tree with the same prediction function across the feature space. |
+| [Certifiably Optimal RulE ListS](https://github.com/nlarusstone/corels)-![](https://img.shields.io/github/stars/nlarusstone/corels?style=social) | A discrete optimization method for constructing certifiably optimal rule lists over categorical feature spaces. |
+| [ELINA](https://github.com/eth-sri/ELINA)-![](https://img.shields.io/github/stars/eth-sri/ELINA?style=social) | A C/C++ numerical analysis library that includes abstract domains used for neural network robustness analysis and verification. |
+| [EzPC](https://github.com/mpc-msri/ezpc)-![](https://img.shields.io/github/stars/mpc-msri/ezpc?style=social) | A system for compiling and executing privacy-preserving machine learning training and inference using secure multiparty computation. |
+| [GOSDT with Guesses](https://github.com/ubc-systopia/gosdt-guesses)-![](https://img.shields.io/github/stars/ubc-systopia/gosdt-guesses?style=social) | A C++-backed implementation for constructing globally optimized sparse decision trees. |
+| [HEIR](https://github.com/google/heir)-![](https://img.shields.io/github/stars/google/heir?style=social) | An MLIR-based compiler toolchain for homomorphic encryption that targets privacy-preserving computation backends. |
+| [HElib](https://github.com/homenc/HElib)-![](https://img.shields.io/github/stars/homenc/HElib?style=social) | A C++ library implementing homomorphic encryption schemes for computation over encrypted data. |
+| [Marabou](https://github.com/NeuralNetworkVerification/Marabou)-![](https://img.shields.io/github/stars/NeuralNetworkVerification/Marabou?style=social) | A formal verification framework for proving properties of neural networks or identifying counterexamples. |
+| [Microsoft SEAL](https://github.com/microsoft/SEAL)-![](https://img.shields.io/github/stars/microsoft/SEAL?style=social) | A modern C++ homomorphic encryption library that supports computation, including machine learning inference, over encrypted data. |
+| [OpenFHE](https://github.com/openfheorg/openfhe-development)-![](https://img.shields.io/github/stars/openfheorg/openfhe-development?style=social) | A C++ library implementing major fully homomorphic encryption schemes for privacy-preserving computation. |
+| [Phoenix](https://github.com/eth-sri/phoenix)-![](https://img.shields.io/github/stars/eth-sri/phoenix?style=social) | A C++ system for privacy-preserving neural network inference with reliability guarantees. |
+| [Secure-ML](https://github.com/shreya-28/Secure-ML)-![](https://img.shields.io/github/stars/shreya-28/Secure-ML?style=social) | An implementation of secure linear regression in a semi-honest two-party setting. |
+| [TenSEAL](https://github.com/OpenMined/TenSEAL)-![](https://img.shields.io/github/stars/OpenMined/TenSEAL?style=social) | A library for homomorphic encryption operations on tensors, with a C++ core and applications to encrypted machine learning. |
 
 #### JavaScript
 
