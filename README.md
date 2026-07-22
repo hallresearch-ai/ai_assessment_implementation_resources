@@ -769,11 +769,29 @@ This section contains open source or open access ML environment management softw
 
 ### Personal Data Protection Tools
 
-This section contains tools for personal data protection.
+This section contains open source or open access tools for detecting, protecting, auditing, and removing personal data in machine learning systems.
 
 | Name | Description |
 |------|-------------|
-| [LLM Dataset Inference: Did you train on my dataset?](https://github.com/pratyushmaini/llm_dataset_inference/)-![](https://img.shields.io/github/stars/pratyushmaini/llm_dataset_inference?style=social) | "Official Repository for Dataset Inference for LLMs" |
+| [Anonymeter](https://github.com/statice/anonymeter)-![](https://img.shields.io/github/stars/statice/anonymeter?style=social) | A unified framework for quantifying privacy risk in synthetic data through singling-out, linkability, and inference attacks. |
+| [Concrete ML](https://github.com/zama-ai/concrete-ml)-![](https://img.shields.io/github/stars/zama-ai/concrete-ml?style=social) | A privacy-preserving machine learning framework using fully homomorphic encryption, with bindings to traditional machine learning frameworks. |
+| [diffprivlib](https://github.com/IBM/differential-privacy-library)-![](https://img.shields.io/github/stars/IBM/differential-privacy-library?style=social) | A general-purpose Python library for experimenting with, investigating, and developing applications in differential privacy. |
+| [DP Wizard](https://github.com/opendp/dp-wizard)-![](https://img.shields.io/github/stars/opendp/dp-wizard?style=social) | A web application for creating data releases that satisfy differential privacy using the OpenDP Library. |
+| [Google Differential Privacy](https://github.com/google/differential-privacy)-![](https://img.shields.io/github/stars/google/differential-privacy?style=social) | Google's libraries for differential privacy, including privacy accounting, statistical algorithms, and data-processing integrations. |
+| [JAX Privacy](https://github.com/google-deepmind/jax_privacy)-![](https://img.shields.io/github/stars/google-deepmind/jax_privacy?style=social) | Algorithms for privacy-preserving machine learning in JAX. |
+| [LLM Dataset Inference: Did you train on my dataset?](https://github.com/pratyushmaini/llm_dataset_inference/)-![](https://img.shields.io/github/stars/pratyushmaini/llm_dataset_inference?style=social) | Code for testing whether a dataset was used to train a large language model. |
+| [Machine Unlearning with SISA](https://github.com/cleverhans-lab/machine-unlearning)-![](https://img.shields.io/github/stars/cleverhans-lab/machine-unlearning?style=social) | A reference implementation of the SISA training approach for efficiently removing the influence of specified data from trained models. |
+| [ML Privacy Meter](https://github.com/privacytrustlab/ml_privacy_meter)-![](https://img.shields.io/github/stars/privacytrustlab/ml_privacy_meter?style=social) | An open-source library for auditing data privacy in statistical and machine learning algorithms. |
+| [OpenAI Privacy Filter](https://github.com/openai/privacy-filter)-![](https://img.shields.io/github/stars/openai/privacy-filter?style=social) | A locally deployable model and library for detecting and masking personally identifiable information in text. |
+| [OpenDP](https://github.com/opendp/opendp)-![](https://img.shields.io/github/stars/opendp/opendp?style=social) | A modular library of differential privacy algorithms implemented in Rust, with Python and R bindings. |
+| [OpenPipe PII Redaction](https://github.com/OpenPipe/pii-redaction)-![](https://img.shields.io/github/stars/OpenPipe/pii-redaction?style=social) | A Python package for locally detecting and redacting personally identifiable information in text and JSONL conversation datasets. |
+| [OpenUnlearning](https://github.com/locuslab/open-unlearning)-![](https://img.shields.io/github/stars/locuslab/open-unlearning?style=social) | A unified framework for developing and evaluating large language model unlearning methods. |
+| [Opacus](https://github.com/meta-pytorch/opacus)-![](https://img.shields.io/github/stars/meta-pytorch/opacus?style=social) | A PyTorch library for training machine learning models with differential privacy. |
+| [Presidio](https://github.com/data-privacy-stack/presidio)-![](https://img.shields.io/github/stars/data-privacy-stack/presidio?style=social) | A framework for detecting, redacting, masking, and anonymizing sensitive data across text, images, and structured data. |
+| [SDMetrics](https://github.com/sdv-dev/SDMetrics)-![](https://img.shields.io/github/stars/sdv-dev/SDMetrics?style=social) | A library of metrics for evaluating the quality, efficacy, and privacy of synthetic datasets. |
+| [SmartNoise SDK](https://github.com/opendp/smartnoise-sdk)-![](https://img.shields.io/github/stars/opendp/smartnoise-sdk?style=social) | Tools and services for differentially private processing of tabular and relational data. |
+| [TensorFlow Privacy](https://github.com/tensorflow/privacy)-![](https://img.shields.io/github/stars/tensorflow/privacy?style=social) | A library for training TensorFlow models with differential privacy and analyzing the privacy guarantees of training procedures. |
+| [Tumult Analytics](https://github.com/opendp/tumult-analytics)-![](https://img.shields.io/github/stars/opendp/tumult-analytics?style=social) | A Python library for executing differentially private operations on data, with an emphasis on usability and scalability. |
 
 ### Open Source/Access Responsible AI Software Packages
 
