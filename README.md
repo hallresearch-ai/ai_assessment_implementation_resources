@@ -693,27 +693,47 @@ This section contains benchmarks or datasets used for benchmarks for ML systems,
 
 ### Common or Useful Datasets
 
-This section contains datasets that are commonly used in responsible ML evaulations or repositories of interesting/important data sources.
+This section contains datasets commonly used in responsible ML evaluations, along with repositories of important or useful data sources.
 
-* [A dataset on EU legislation for the digital world](https://www.bruegel.org/dataset/dataset-eu-legislation-digital-world) | Bruegel
-* [Adult income dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
+* [Adult Income Dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
+* [Amazon Application Evaluation Data](https://github.com/amazon-science/application-eval-data) | ![](https://img.shields.io/github/stars/amazon-science/application-eval-data?style=social)
+* [A Dataset on EU Legislation for the Digital World](https://www.bruegel.org/dataset/dataset-eu-legislation-digital-world) | Bruegel
 * [Balanced Faces in the Wild](https://github.com/visionjo/facerec-bias-bfw) | ![](https://img.shields.io/github/stars/visionjo/facerec-bias-bfw?style=social)
-* [COMPAS Recidivism Risk Score Data and Analysis](https://www.propublica.org/datastore/dataset/compas-recidivism-risk-score-data-and-analysis)
-  * **Data Repositories**
-    * [All Lending Club loan data](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
-    * [Amazon Open Data](https://registry.opendata.aws/amazon-reviews/)
-    * [Data.gov](https://data.gov/)
-    * [Home Mortgage Disclosure Act Data](https://www.consumerfinance.gov/data-research/hmda/)
-    * [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/)
-    * [UCI ML Data Repository](https://archive.ics.uci.edu/)
-* [FANNIE MAE Single Family Loan Performance](https://capitalmarkets.fanniemae.com/credit-risk-transfer/single-family-credit-risk-transfer/fannie-mae-single-family-loan-performance-data)
-* [German Credit Data](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data) | Statlog
+* [BIPIA: Benchmarking and Defending Against Indirect Prompt Injection Attacks](https://github.com/microsoft/BIPIA) | ![](https://img.shields.io/github/stars/microsoft/BIPIA?style=social)
+* [BOLD: Dataset and Metrics for Measuring Biases in Open-Ended Language Generation](https://github.com/amazon-science/bold) | ![](https://img.shields.io/github/stars/amazon-science/bold?style=social)
+* [BBQ: Bias Benchmark for Question Answering](https://github.com/nyu-mll/BBQ) | ![](https://img.shields.io/github/stars/nyu-mll/BBQ?style=social)
+* [Casual Conversations v2](https://ai.meta.com/research/publications/the-casual-conversations-v2-dataset/) | Meta
+* [Celeb-DF](https://github.com/yuezunli/celeb-deepfakeforensics) | ![](https://img.shields.io/github/stars/yuezunli/celeb-deepfakeforensics?style=social)
+* [Civil Comments](https://huggingface.co/datasets/google/civil_comments) | Google
+* [COMPAS Recidivism Risk Score Data and Analysis](https://www.propublica.org/datastore/dataset/compas-recidivism-risk-score-data-and-analysis) | ProPublica
+* [CRAG: Comprehensive RAG Benchmark](https://github.com/facebookresearch/CRAG) | ![](https://img.shields.io/github/stars/facebookresearch/CRAG?style=social)
+* [FACET](https://ai.meta.com/datasets/facet/) | Meta
+* [FaceForensics++](https://github.com/ondyari/FaceForensics) | ![](https://img.shields.io/github/stars/ondyari/FaceForensics?style=social)
+* [FairFace](https://github.com/joojs/fairface) | ![](https://img.shields.io/github/stars/joojs/fairface?style=social)
+* [Fannie Mae Single-Family Loan Performance Data](https://capitalmarkets.fanniemae.com/credit-risk-transfer/single-family-credit-risk-transfer/fannie-mae-single-family-loan-performance-data)
+* [Folktables](https://github.com/socialfoundations/folktables) | ![](https://img.shields.io/github/stars/socialfoundations/folktables?style=social)
+* [German Credit Data](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data) | UCI Machine Learning Repository
+* [HalluLens](https://github.com/facebookresearch/HalluLens) | ![](https://img.shields.io/github/stars/facebookresearch/HalluLens?style=social)
+* [HarmBench](https://github.com/centerforaisafety/HarmBench) | ![](https://img.shields.io/github/stars/centerforaisafety/HarmBench?style=social)
 * [Have I Been Trained?](https://haveibeentrained.com/)
-* [nikhgarg / EmbeddingDynamicStereotypes](https://github.com/nikhgarg/EmbeddingDynamicStereotypes) | ![](https://img.shields.io/github/stars/nikhgarg/EmbeddingDynamicStereotypes?style=social)
+* [Embedding Dynamic Stereotypes](https://github.com/nikhgarg/EmbeddingDynamicStereotypes) | ![](https://img.shields.io/github/stars/nikhgarg/EmbeddingDynamicStereotypes?style=social)
 * [NYPD Stop, Question and Frisk Data](https://www.nyc.gov/site/nypd/stats/reports-analysis/stopfrisk.page)
-* [Presidential Deepfakes Dataset](https://www.media.mit.edu/publications/presidential-deepfakes-dataset/)
-* [socialfoundations / folktables](https://github.com/socialfoundations/folktables) | ![](https://img.shields.io/github/stars/socialfoundations/folktables?style=social)
+* [Presidential Deepfakes Dataset](https://www.media.mit.edu/publications/presidential-deepfakes-dataset/) | MIT Media Lab
+* [RealToxicityPrompts](https://github.com/allenai/real-toxicity-prompts) | ![](https://img.shields.io/github/stars/allenai/real-toxicity-prompts?style=social)
+* [StereoSet](https://github.com/moinnadeem/StereoSet) | ![](https://img.shields.io/github/stars/moinnadeem/StereoSet?style=social) — An older benchmark for measuring stereotypical associations in language models.
+* [ToxiGen](https://github.com/microsoft/TOXIGEN) | ![](https://img.shields.io/github/stars/microsoft/TOXIGEN?style=social)
+* [TyDi QA](https://github.com/google-research-datasets/tydiqa) | ![](https://img.shields.io/github/stars/google-research-datasets/tydiqa?style=social)
 * [Wikipedia Talk Labels: Personal Attacks](https://www.kaggle.com/datasets/jigsaw-team/wikipedia-talk-labels-personal-attacks)
+* [WILDS](https://github.com/p-lambda/wilds) | ![](https://img.shields.io/github/stars/p-lambda/wilds?style=social)
+
+#### Data Repositories
+
+* [Amazon Open Data Registry](https://registry.opendata.aws/)
+* [Data.gov](https://data.gov/)
+* [Home Mortgage Disclosure Act Data](https://www.consumerfinance.gov/data-research/hmda/)
+* [Lending Club Loan Data](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
+* [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/)
+* [UCI Machine Learning Repository](https://archive.ics.uci.edu/)
 
 ### Domain-specific Software
 
