@@ -47,7 +47,7 @@ This repository grew out of the original [*Awesome Machine Learning Interpretabi
   - [Open Source/Access Responsible AI Software Packages](#open-sourceaccess-responsible-ai-software-packages)
     - [Browser](#browser)
     - [C/C++](#cc)
-    - [JavaScript](#javascript)
+    - [JavaScript and Typescript](#javascript-and-typescript)
     - [Python](#python)
     - [R](#r)
 - [Archived](#archived)
