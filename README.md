@@ -852,11 +852,18 @@ This section contains open source or open access software used to implement resp
 | [Secure-ML](https://github.com/shreya-28/Secure-ML)-![](https://img.shields.io/github/stars/shreya-28/Secure-ML?style=social) | An implementation of secure linear regression in a semi-honest two-party setting. |
 | [TenSEAL](https://github.com/OpenMined/TenSEAL)-![](https://img.shields.io/github/stars/OpenMined/TenSEAL?style=social) | A library for homomorphic encryption operations on tensors, with a C++ core and applications to encrypted machine learning. |
 
-#### JavaScript
+#### JavaScript and TypeScript
 
 | Name | Description |
 |------|-------------|
-| [LDNOOBW](https://github.com/LDNOOBW)-![](https://img.shields.io/github/stars/LDNOOBW?style=social) | "List of Dirty, Naughty, Obscene, and Otherwise Bad Words" |
+| [AutoEvals](https://github.com/braintrustdata/autoevals)-![](https://img.shields.io/github/stars/braintrustdata/autoevals?style=social) | A TypeScript and Python library for evaluating AI model outputs using model-graded, heuristic, statistical, safety, factuality, and retrieval-augmented generation evaluators. |
+| [C2PA JavaScript](https://github.com/contentauth/c2pa-js)-![](https://img.shields.io/github/stars/contentauth/c2pa-js?style=social) | JavaScript and TypeScript libraries for reading, validating, and working with C2PA content-provenance metadata in browsers and web applications. |
+| [Helicone](https://github.com/helicone/helicone)-![](https://img.shields.io/github/stars/helicone/helicone?style=social) | An open-source platform for tracing, monitoring, evaluating, debugging, and experimenting with large language model applications. |
+| [Langfuse](https://github.com/langfuse/langfuse)-![](https://img.shields.io/github/stars/langfuse/langfuse?style=social) | An open-source LLM engineering platform for observability, evaluation, prompt management, datasets, experimentation, and application debugging. |
+| [List of Dirty, Naughty, Obscene, and Otherwise Bad Words](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)-![](https://img.shields.io/github/stars/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words?style=social) | A collection of potentially offensive terms in multiple languages for use in content filtering and moderation systems. |
+| [Promptfoo](https://github.com/promptfoo/promptfoo)-![](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social) | A command-line tool and library for evaluating, comparing, red-teaming, and vulnerability-testing prompts, agents, retrieval systems, and other LLM applications. |
+| [Responsible AI Toolbox](https://github.com/microsoft/responsible-ai-toolbox)-![](https://img.shields.io/github/stars/microsoft/responsible-ai-toolbox?style=social) | A suite of model-assessment interfaces and libraries for error analysis, interpretability, fairness assessment, causal analysis, and responsible model development. |
+| [Responsible AI Toolbox Tracker](https://github.com/microsoft/responsible-ai-toolbox-tracker)-![](https://img.shields.io/github/stars/microsoft/responsible-ai-toolbox-tracker?style=social) | A TypeScript-based JupyterLab extension for tracking, managing, and comparing responsible-AI experiments, mitigations, models, and disaggregated evaluation results. |
 
 #### Python
 
