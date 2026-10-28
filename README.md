@@ -41,7 +41,7 @@ This repository grew out of the original [*Awesome Machine Learning Interpretabi
   - [Benchmarks and Evaluation Frameworks](#benchmarks-and-evaluation-frameworks)
   - [Common or Useful Datasets](#common-or-useful-datasets)
   - [Domain-specific Software](#domain-specific-software)
-  - [Machine Learning Environment Management Tools](#machine-learning-environment-management-tools)
+  - [ML Lifecycle Management, Monitoring, and Observability](#ml-lifecycle-management-monitoring-and-observability)
   - [Personal Data Protection Tools](#personal-data-protection-tools)
   - [Secure and Privacy-Preserving Computation Infrastructure](#secure-and-privacy-preserving-computation-infrastructure)
   - [Open Source/Access Responsible AI Software Packages](#open-sourceaccess-responsible-ai-software-packages)
@@ -774,19 +774,67 @@ This section curates specialized software tools aimed at responsible ML within s
 * [NVIDIA Morpheus](https://github.com/nv-morpheus/Morpheus) | ![](https://img.shields.io/github/stars/nv-morpheus/Morpheus?style=social)
 * [secml-malware](https://github.com/pralab/secml_malware) | ![](https://img.shields.io/github/stars/pralab/secml_malware?style=social)
 
-### Machine Learning Environment Management Tools
+### ML Lifecycle Management, Monitoring, and Observability
 
-This section contains open source or open access ML environment management software.
+This section contains open-source and source-available software for tracking data and models, reproducing workflows, validating changes, and observing deployed ML, LLM, and agent systems. Resources are grouped by their main function; many tools support more than one stage of the lifecycle. Material license qualifications are identified in the relevant entries.
+
+#### Data and Model Versioning, Experiment Tracking, and Lineage
 
 | Resource | Description |
-|----------|-------|
-| [dvc](https://dvc.org/) | "Manage and version images, audio, video, and text files in storage and organize your ML modeling process into a reproducible workflow." |
-| [gigantum](https://github.com/gigantum)-![gigantum stars](https://img.shields.io/github/stars/gigantum?style=social) | "Building a better way to create, collaborate, and share data-driven science." |
-| [mlflow](https://mlflow.org/) | "An open source platform for the machine learning lifecycle." |
-| [mlmd](https://github.com/google/ml-metadata)-![mlmd stars](https://img.shields.io/github/stars/google/ml-metadata?style=social) | "For recording and retrieving metadata associated with ML developer and data scientist workflows." |
-| [modeldb](https://github.com/VertaAI/modeldb)-![modeldb stars](https://img.shields.io/github/stars/VertaAI/modeldb?style=social) | "Open Source ML Model Versioning, Metadata, and Experiment Management." |
-| [neptune](https://neptune.ai/researchers) | "A single place to manage all your model metadata." |
-| [Opik](https://github.com/comet-ml/opik)-![](https://img.shields.io/github/stars/comet-ml/opik?style=social) |  "Evaluate, test, and ship LLM applications across your dev and production lifecycles." |
+| --- | --- |
+| [Aim](https://github.com/aimhubio/aim) | Self-hosted experiment tracking for recording and comparing metrics, hyperparameters, and other metadata across training runs. |
+| [ClearML](https://github.com/clearml/clearml) | Experiment management and orchestration for recording code, parameters, environments, metrics, and artifacts and reproducing ML workloads. |
+| [DVC](https://dvc.org/) | Version control for datasets, pipelines, and experiments, linking reproducible data and workflow states to a project's development history. |
+| [lakeFS](https://github.com/treeverse/lakeFS) | Git-like branching, versioning, and rollback for data lakes, supporting reproducible datasets and testing of data changes. Source-available under BUSL-1.1. |
+| [ML Metadata (MLMD)](https://github.com/google/ml-metadata) | A library for recording and retrieving metadata associated with ML developer and data-scientist workflows. |
+| [MLflow](https://mlflow.org/) | A lifecycle platform for experiment tracking, model packaging and registry workflows, and evaluation, tracing, and monitoring of ML and generative-AI applications. |
+| [ModelDB](https://github.com/VertaAI/modeldb) | A system for versioning ML models and their code, data, configuration, and environments and tracking experiment metadata. |
+| [OpenLineage](https://github.com/OpenLineage/OpenLineage) | An open standard and integration ecosystem for collecting job, run, and dataset lineage metadata across data-processing workflows. |
+
+#### Reproducible Pipelines and Environments
+
+| Resource | Description |
+| --- | --- |
+| [Flyte](https://github.com/flyteorg/flyte) | Workflow orchestration for executing ML pipelines, model workloads, and agent applications as structured, repeatable tasks. |
+| [Gigantum](https://github.com/gigantum) | "Building a better way to create, collaborate, and share data-driven science." |
+| [Kedro](https://github.com/kedro-org/kedro) | A Python framework for modular, reproducible data and ML pipelines, with a data catalog and structured project conventions. |
+| [Kubeflow Pipelines](https://github.com/kubeflow/pipelines) | A platform and SDK for composing, executing, and reusing end-to-end ML workflows on Kubernetes. |
+| [Metaflow](https://github.com/Netflix/metaflow) | A framework for developing and operating ML and AI workflows, with versioned runs, dependency management, and deployment to workflow orchestrators. |
+| [ZenML](https://github.com/zenml-io/zenml) | A framework for defining ML and AI pipelines, tracking their runs and artifacts, and executing them across infrastructure backends. |
+
+#### Data Quality, Drift Detection, and Production Monitoring
+
+| Resource | Description |
+| --- | --- |
+| [Alibi Detect](https://github.com/SeldonIO/alibi-detect) | A Python library for outlier, adversarial, and drift detection across several data modalities. Source-available under BUSL-1.1. |
+| [Evidently](https://github.com/evidentlyai/evidently) | A framework for evaluating, testing, and monitoring ML and LLM systems, including data quality, distribution drift, model performance, and output-quality checks. |
+| [Great Expectations (GX Core)](https://github.com/fivetran/great_expectations) | A data-validation framework for expressing expectations, running data-quality checks, and generating documentation from validation results. |
+| [NannyML](https://github.com/NannyML/nannyml) | Post-deployment monitoring for tabular models, including data-drift detection, realized performance, and performance estimation when target labels are unavailable under the methods' assumptions. |
+| [River](https://github.com/online-ml/river) | A Python library for learning from data streams, including online evaluation and drift-detection algorithms. |
+| [TensorFlow Data Validation](https://github.com/tensorflow/data-validation) | Tools for exploring and validating ML data through summary statistics, schema generation, distribution comparisons, and anomaly detection. |
+| [whylogs](https://github.com/whylabs/whylogs) | A data-profiling library that creates mergeable statistical summaries for examining data quality and changes in distributions over time. |
+
+#### LLM and Agent Tracing, Evaluation, and Observability
+
+| Resource | Description |
+| --- | --- |
+| [Arize Phoenix](https://github.com/Arize-ai/phoenix) | A platform for tracing, evaluating, and debugging LLM applications and agents, with datasets and experiments. Source-available under Elastic License 2.0. |
+| [Helicone](https://github.com/Helicone/helicone) | An LLM observability platform and AI gateway for examining requests, agent traces, latency, costs, and application behavior. |
+| [Langfuse](https://github.com/langfuse/langfuse) | An LLM engineering platform for tracing, prompt management, datasets, feedback, evaluation, and debugging. The core is MIT-licensed; enterprise components have separate terms. |
+| [OpenInference](https://github.com/Arize-ai/openinference) | Conventions and instrumentation for tracing AI applications, including model calls, retrieval, and tool use, with OpenTelemetry-compatible backends. |
+| [OpenLLMetry](https://github.com/traceloop/openllmetry) | OpenTelemetry-based instrumentation and SDKs for observing LLM applications and connecting their traces to existing observability backends. |
+| [Opik](https://github.com/comet-ml/opik) | A platform for tracing, evaluating, debugging, and monitoring LLM applications, RAG systems, and agent workflows. |
+| [TruLens](https://github.com/truera/trulens) | Instrumentation and evaluation for LLM applications and agents, combining application traces with feedback functions and comparison of experiments. |
+
+#### Operational Testing and Regression Evaluation
+
+| Resource | Description |
+| --- | --- |
+| [Deepchecks](https://github.com/deepchecks/deepchecks) | Validation suites for ML datasets and models, including data-integrity, train/test-validation, and model-performance checks. |
+| [DeepEval](https://github.com/confident-ai/deepeval) | An LLM evaluation and testing framework with dataset-based tests, application metrics, and integration into continuous-integration workflows. |
+| [Ragas](https://github.com/vibrantlabsai/ragas) | An evaluation toolkit for LLM applications, including retrieval-augmented generation, agent workflows, and comparisons of prompts and system changes. |
+
+For additional assessment and testing resources, see [Benchmarks and Evaluation Frameworks](#benchmarks-and-evaluation-frameworks), [AI Red-Teaming Resources](#ai-red-teaming-resources), and [Open Source/Access Responsible AI Software Packages](#open-sourceaccess-responsible-ai-software-packages).
 
 ### Personal Data Protection Tools
 
