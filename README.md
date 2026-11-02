@@ -199,6 +199,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [The Foundation Model Transparency Index](https://crfm.stanford.edu/fmti/)
 * [The Landscape of ML Documentation Tools](https://huggingface.co/docs/hub/model-card-landscape-analysis) | Hugging Face
 * [Towards Traceability in Data Ecosystems using a Bill of Materials Model](https://arxiv.org/pdf/1904.04253.pdf) | Manifest MLBOM Wiki
+* [TrustHawk AI company trust ratings](https://trusthawk.ai/) | TrustHawk
 * [Understanding data governance in AI: Mapping governance](https://theodi.org/insights/reports/understanding-data-governance-in-ai-mapping-governance/) | Open Data Institute
 * [University of California, Berkeley, Information Security Office, How to Write an Effective Website Privacy Statement](https://security.berkeley.edu/how-write-effective-website-privacy-statement)
 * [University of Washington Tech Policy Lab, Data Statements](https://techpolicylab.uw.edu/data-statements/)
