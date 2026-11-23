@@ -79,6 +79,7 @@ This section is for responsible ML guidance put forward by organizations or indi
 * [AI Agent Governance: A Field Guide](https://static1.squarespace.com/static/64edf8e7f2b10d716b5ba0e1/t/6801438c58c2692374995db0/1744913293841/Agent+Governance_+A+Field+Guide.pdf) | (IAPS), April 2025
 * [AI Ethics & Governance 2025: A Framework for Malaysia's Tech Industry](https://www.pikom.org.my/2025/PIKOM_AI_ethic_and_governance_2025.pdf) | PIKOM, May 2025
 * [AI Ethics and Governance in Practice](https://www.turing.ac.uk/research/research-projects/ai-ethics-and-governance-practice) | The Alan Turing Institute
+* [AI Governance Templates for Small and Mid-Size Companies](https://github.com/nosistech/governance-templates) | NosisTech, November 2026
 * [AI Governance: A Framework for Responsible and Compliant Artificial Intelligence](https://www.aigl.blog/content/files/2025/09/AI-GOVERNANCE-A-Framework-for-Responsible-and-Compliant-Artificial-Intelligence.pdf) | Sołtysiński Kawecki & Szlęzak, September 2025
 * [AI Inventories: Practical Challenges for Organizational Risk Management](https://tinyurl.com/mrxrdc3y) | Responsible AI Institute and Chevron
 * [AI Model Risk Management Framework](https://cloudsecurityalliance.org/artifacts/ai-model-risk-management-framework) | Cloud Security Alliance and AI Technology and Risk Working Group, July 23, 2024
